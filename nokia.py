@@ -1,3 +1,5 @@
+# The problem is to create a program that receives a message as input and outputs the sequence of keys that need to be pressed on a Nokia 3310 keypad to type the message.
+
 
 # Nokia 3310 keypad
 key_pad = {
@@ -12,7 +14,7 @@ key_pad = {
     0: ' '
 }
 
-# Required keys to type a message
+# Required keys to type the message
 required_key = []
 
 message = input().upper()
