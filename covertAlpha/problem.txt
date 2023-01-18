@@ -1,0 +1,1 @@
+Write a program that takes a string as input and returns the string with every letter repeated twice, with the second occurrence being the opposite case of the first (e.g. "a" becomes "aA", "B" becomes "Bb"). Non-letter characters should be left unchanged.
